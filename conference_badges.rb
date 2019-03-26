@@ -13,7 +13,6 @@ end
 
 
 def batch_badge_creator(array)
-#I need this method to return EITHER an array or just one line for one index
   badges = []
   array.each do |name|
     badges.push(badge_maker(name))
