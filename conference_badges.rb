@@ -1,9 +1,3 @@
-# Write your code here.
-#method that creates the Badges
-# define the array with speaker names
-#def method that creates the badges
-#def method that creates list of badges
-
 speakers = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 def badge_maker(name)
